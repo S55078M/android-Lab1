@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">APP LAB1</string>
+    <string name="test_title">Binary Code</string>
+    <string name="decode_str">Decode</string>
+    <string name="encode_str">Encode</string>
+    <string-array name="base_num_array">
+        <item>2</item>
+        <item>4</item>
+        <item>8</item>
+        <item>10</item>
+        <item>16</item>
+    </string-array>
+</resources>
